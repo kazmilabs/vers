@@ -1,0 +1,62 @@
+[
+    {
+        "filename": "/abd2.pdf",
+        "url": "https://ia801201.us.archive.org/10/items/sazish-btis/abd2.pdf",
+        "bookname": "Abdullah 2",
+        "booktitle": "عبداللہ 2",
+        "bookimage": "assets/bookicons/abd2.png",
+        "bookauthor": "ہاشم ندیم",
+        "downloadsize": "5.16",
+        "isfave": true,
+        "isexist": false,
+        "bookpathondevice": ""
+    },
+    {
+        "filename": "/adb3.pdf",
+        "url": "https://ia801201.us.archive.org/10/items/sazish-btis/adb3.pdf",
+        "bookname": "Abdullah 3",
+        "booktitle": "عبداللہ 3",
+        "bookimage": "assets/bookicons/adb3.png",
+        "bookauthor": "ہاشم ندیم",
+        "downloadsize": "21.5",
+        "isfave": false,
+        "isexist": false,
+        "bookpathondevice": ""
+    },
+    {
+        "filename": "/aik.pdf",
+        "url": "https://ia801201.us.archive.org/10/items/sazish-btis/aik.pdf",
+        "bookname": "Aik Muhabat Aur Sahi",
+        "booktitle": "ایک محبت اور سہی",
+        "bookimage": "assets/bookicons/aik.png",
+        "bookauthor": "ہاشم ندیم",
+        "downloadsize": "3.68",
+        "isfave": true,
+        "isexist": false,
+        "bookpathondevice": ""
+    },
+    {
+        "filename": "/khuda.pdf",
+        "url": "https://ia801201.us.archive.org/10/items/sazish-btis/khuda.pdf",
+        "bookname": "Khuda Aur Muhabat",
+        "booktitle": "خدا اور محبت",
+        "bookimage": "assets/bookicons/khuda.png",
+        "bookauthor": "ہاشم ندیم",
+        "downloadsize": "10",
+        "isfave": false,
+        "isexist": false,
+        "bookpathondevice": ""
+    },
+    {
+        "filename": "/pari.pdf",
+        "url": "https://ia801201.us.archive.org/10/items/sazish-btis/pari.pdf",
+        "bookname": "PariZad",
+        "booktitle": "پری زاد",
+        "bookimage": "assets/bookicons/pari.png",
+        "bookauthor": "ہاشم ندیم",
+        "downloadsize": "4.30",
+        "isfave": false,
+        "isexist": false,
+        "bookpathondevice": ""
+    }
+]
